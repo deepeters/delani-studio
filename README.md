@@ -3,7 +3,8 @@
 ### Project Name: DELANI STUDIO
 
 ### Project Description
-An individual project to display a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
+An individual project for Delani Studio. The system is designed for a company that offers a wide range of services including brand strategy, interaction and visual design and user experience testing. 
+
 <img src="images/something.png">
 
 ### Setup Instructions
