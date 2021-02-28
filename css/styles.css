@@ -75,3 +75,11 @@ div {
     height: 600px;
     background-position: center;
 }
+
+.social_icons{
+    display: inline-block;
+    align-items: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
