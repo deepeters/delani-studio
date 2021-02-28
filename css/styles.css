@@ -61,3 +61,17 @@ card {
 div {
     padding: 20px;
   }
+
+.col-md-3{
+    padding: 10px;
+    position: relative;
+}
+
+.bgImg3{
+    background-image: url("../images/assets/backgrounds/c_image.jpg");
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    height: 600px;
+    background-position: center;
+}
