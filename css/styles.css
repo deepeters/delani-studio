@@ -141,8 +141,20 @@ h4{
 }
 
 .overlay-effect {
-  opacity: 0.3;
+  opacity: 0.5;
 }
+
+.portfolio .row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .portfolio .row .col-md-4 {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 
 .bgImg3{
     background-image: url("../images/assets/backgrounds/c_image.jpg");
