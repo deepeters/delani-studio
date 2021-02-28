@@ -49,3 +49,15 @@ h2{
     height: 500px;
     background-position: center;
 }
+
+card {
+    color: #444;
+    text-decoration: none;
+    font-size: 14px;
+    position: relative;
+    float:none;
+}
+
+div {
+    padding: 20px;
+  }
