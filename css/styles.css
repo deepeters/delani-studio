@@ -100,6 +100,49 @@ h4{
     text-align: center;
 }
 
+#overlay1,
+#overlay2,
+#overlay3,
+#overlay4,
+#overlay5,
+#overlay6,
+#overlay7,
+#overlay8 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#work-overlay1,
+#work-overlay2,
+#work-overlay3,
+#work-overlay4,
+#work-overlay5,
+#work-overlay6,
+#work-overlay7,
+#work-overlay8 {
+  position: absolute;
+  left: 29px;
+  border: 3px solid white;
+  width: 80%;
+  color: #000;
+  display: none;
+  opacity: 4;
+}
+
+.overlay-text {
+  font-size: 25px;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.overlay-effect {
+  opacity: 0.3;
+}
+
 .bgImg3{
     background-image: url("../images/assets/backgrounds/c_image.jpg");
     background-repeat: no-repeat;
