@@ -26,9 +26,22 @@ $(document).ready(function() {
           $(`#work-overlay${overlayNumber}`).toggle();
         });
       }
-    
-    
-    
-    
     });
+    
+    $(document).ready(function() {
+        $("form#contactForm").submit(function(event) {
+            event.preventDefault();
+            var name = $("input#name").val();
+            var email = $("input#email").val();
+    
+    
+            if (name && email) {
+                alert(name + ", we have received your message. Thank you for reaching out to us.");
+            } else {
+                alert("Please enter your name and email!");
+            }
+        })
+    
+    
+    })
     
