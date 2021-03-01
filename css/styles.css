@@ -224,21 +224,6 @@ button[type=submit],
     color: white;
 }
 
-/*#name {
-    margin-left: 12%;
-    width: 40%
-}
-
-#email {
-    margin-left: 1%;
-    width: 40%;
-}
-
-#description {
-    margin-left: 12%;
-    width: 81%;
-}*/
-
 
 .form-control::-webkit-input-placeholder {
     color: white;
