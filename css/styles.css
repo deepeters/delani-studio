@@ -192,14 +192,13 @@ h4{
   }
 
 #btn-submit {
-    width: 100%;
-    /*background: #4CAF50; */
+    width: 100%; 
     color: transparent;
     padding: 14px 20px;
-    margin: 8px 0;
+   /* margin: 8px 0;
     border: none;
     border-radius: 4px;
-    cursor: pointer;
+    cursor: pointer; */
   }
 
   #btn-submit:hover {
