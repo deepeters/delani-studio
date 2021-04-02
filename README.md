@@ -1,5 +1,3 @@
-# DENNIS NJENGA THIRD IP SUBMISSION
-
 ### Project Name: DELANI STUDIO
 
 ### Project Description
